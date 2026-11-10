@@ -1,0 +1,23 @@
+.user-list {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+
+.user-list .user-item {
+    background-color: #d8e6fa;
+    border: 1px solid #959595;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 8px;
+    max-width: 50%;
+}
+
+.user-list .user-item p {
+    margin: 5px 0;
+}
+
+.loading-message {
+    color: #888;
+    font-style: italic;
+}
